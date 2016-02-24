@@ -16,14 +16,3 @@ change 6:git 4;
 
 change 7:git 5;
 
-jijsodfsdfd
-dfd
-fd
-fdf
-dfdf
-
-dfdsd
-
-
-dddddddddd
-dddd
