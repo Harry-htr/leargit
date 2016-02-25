@@ -14,4 +14,4 @@ change 5:git 3
 
 change 6:git 4;
 
-change 7:git 5;
+change 7:git 5; this is a bug branch ,and fix one bug
